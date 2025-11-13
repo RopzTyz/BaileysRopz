@@ -1,4 +1,4 @@
-<h1 align='center'><img alt="Baileys logo" src="https://raw.githubusercontent.com/WhiskeySockets/Baileys/refs/heads/master/Media/logo.png" height="75"/></h1>
+<h1 align='center'><img alt="Baileys logo" src="[https://files.catbox.moe/6hlumv.jpg](https://files.catbox.moe/6hlumv.jpg)" height="75"/></h1>
 
 <div align='center'>Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API.</div>
 
@@ -17,7 +17,7 @@
 > 
 > I encourage you to put the effort, all it takes is 5-10 minutes and you get to ask me any questions you have.
 > 
-> \- Rajeh (purpshell)
+> \- Rovi (Ropz)
 > 
 > Fill in the survey via the link: https://whiskey.so/survey 
 
@@ -28,7 +28,7 @@ This is a temporary README.md, the new guide is in development and will this fil
 New guide link: https://baileys.wiki
 
 # Sponsor
-If you'd like to financially support this project, you can do so by supporting the current maintainer [here](https://purpshell.dev/sponsor).
+If you'd like to financially support this project, you can do so by supporting the current maintainer [here](https://github.com/RoviOfficial).
 
 # Disclaimer
 This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates.
@@ -42,7 +42,7 @@ Use at your own discretion. Do not spam people with this. We discourage any stal
 - Baileys does not require Selenium or any other browser to be interface with WhatsApp Web, it does so directly using a **WebSocket**. 
 - Not running Selenium or Chromium saves you like **half a gig** of ram :/ 
 - Baileys supports interacting with the multi-device & web versions of WhatsApp.
-- Thank you to [@pokearaujo](https://github.com/pokearaujo/multidevice) for writing his observations on the workings of WhatsApp Multi-Device. Also, thank you to [@Sigalor](https://github.com/sigalor/whatsapp-web-reveng) for writing his observations on the workings of WhatsApp Web and thanks to [@Rhymen](https://github.com/Rhymen/go-whatsapp/) for the __go__ implementation.
+- Thank you to [@pokearaujo](https://github.com/pokearaujo/multidevice) for writing his observations on the workings of WhatsApp Multi-Device. Also, thank you to [@Sigalor](https://github.com/sigalor/whatsapp-web-reveng) for writing his observations on the workings of WhatsApp Web and thanks to [@RopiyyypXR](https://github.com/Rhymen/go-whatsapp/) for the __go__ implementation.
 
 > [!IMPORTANT]
 > The original repository had to be removed by the original author - we now continue development in this repository here.
